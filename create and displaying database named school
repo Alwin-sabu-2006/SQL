@@ -1,0 +1,7 @@
+Create database school;
+ use school;
+create table students
+    (
+      rollno int(10),name varchar(10));
+ insert into students values (1,'alwin'),(2,'abin');
+ select * from students;
