@@ -1,0 +1,4 @@
+create database company;
+create table employee
+     ( id int(2) PRIMARY KEY NOT NULL,name varchar(10) NOT NULL,salary int(10) NOT NULL);
+ INSERT INTO employee (id, name, salary) VALUES (1, 'Alwin', 25000);
