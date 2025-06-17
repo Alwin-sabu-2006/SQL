@@ -1,0 +1,3 @@
+create table students;
+select * from students where marks>50;
+select names from students;
