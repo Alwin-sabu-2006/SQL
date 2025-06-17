@@ -1,0 +1,6 @@
+show databases;
+use database;
+create table <table name>( 
+)
+insert into table values();
+select * from table;
